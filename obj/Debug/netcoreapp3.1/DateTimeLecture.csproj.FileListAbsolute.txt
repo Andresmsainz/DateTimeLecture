@@ -1,0 +1,13 @@
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.exe
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.deps.json
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.runtimeconfig.json
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.runtimeconfig.dev.json
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.dll
+C:\Users\unsto\source\repos\DateTimeLecture\bin\Debug\netcoreapp3.1\DateTimeLecture.pdb
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.csprojAssemblyReference.cache
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.AssemblyInfoInputs.cache
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.AssemblyInfo.cs
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.csproj.CoreCompileInputs.cache
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.dll
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.pdb
+C:\Users\unsto\source\repos\DateTimeLecture\obj\Debug\netcoreapp3.1\DateTimeLecture.genruntimeconfig.cache
